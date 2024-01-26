@@ -1,0 +1,1 @@
+A repository to log any Glyphs scripts I have written, mostly very simple but useful!
